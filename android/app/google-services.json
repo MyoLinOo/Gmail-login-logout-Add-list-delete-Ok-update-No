@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "663116895062",
+    "firebase_url": "https://sign-in-project3.firebaseio.com",
+    "project_id": "sign-in-project3",
+    "storage_bucket": "sign-in-project3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663116895062:android:935e6543ab144257c6bcf7",
+        "android_client_info": {
+          "package_name": "com.myogardener.gmail_only_login3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663116895062-ks03d3iv5ffciefq3h2rtf2i5ddfa768.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myogardener.gmail_only_login3",
+            "certificate_hash": "bef5814bda0b69ff99642660bd82b23631f1823a"
+          }
+        },
+        {
+          "client_id": "663116895062-e5g15lr3vokq622cvbqdg98br1uenrj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCadOD-hjCcr5PlLEkyRo23imLvhkXnVHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663116895062-e5g15lr3vokq622cvbqdg98br1uenrj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
